@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853846167683",
+    "firebase_url": "https://chatapplication-cb6cd.firebaseio.com",
+    "project_id": "chatapplication-cb6cd",
+    "storage_bucket": "chatapplication-cb6cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853846167683:android:233e2825b0324cc2",
+        "android_client_info": {
+          "package_name": "csu.fullerton.edu.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853846167683-uqps9ks534jnoprro6v8l424dj02lfdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeETW6H4VyRGgSLsN1d-vPvWd_ImXv0oc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
